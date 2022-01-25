@@ -41,6 +41,8 @@ If you are stuck with a step in the exercise or the grading workflow does not au
 
 ![Screen Shot 2021-06-10 at 12 59 28 PM](https://user-images.githubusercontent.com/6351798/121582006-bd93a700-c9eb-11eb-9576-9ec644b8f701.png)
 
+[![Grading workflow](https://github.com/Maheshk-MSFT/ghcert-exam-exercise1/actions/workflows/grading.yml/badge.svg)](https://github.com/Maheshk-MSFT/ghcert-exam-exercise1/actions/workflows/grading.yml)
+
 The troubleshooter will either display useful information to help you understand what you might have done wrong in your exercise or redirect you to the documentation relevant to your exercise to help you out.
 
 See _[Running a workflow on GitHub]_ if you need assistance.
